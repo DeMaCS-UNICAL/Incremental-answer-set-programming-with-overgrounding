@@ -16,5 +16,5 @@ By default, `old_size` is set to *30*
 ## How to run the I-DLV Incremental on Pac-Man encodings
 Open a bash in the `idlv-incremental` folder and execute the command `./idlv --check-edb-duplication --output=7 --no-simplify < pacman.xml`. The output of the grounder will be store in the `groundPacman` folder (create this folder if it does not exist).
 
-## Benchmarks
+## Benchmark
 Please, refer to our wiki page for further experiments and benchmark - [wiki page](https://github.com/DeMaCS-UNICAL/Incremental-answer-set-programming-with-overgrounding/wiki)
