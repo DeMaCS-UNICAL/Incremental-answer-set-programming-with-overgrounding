@@ -14,4 +14,4 @@ The script must be executed in the following way:
 By default, `old_size` is set to *30*
 
 ## How to run the I-DLV Incremental on Pac-Man encodings
-Open a bash in the `idlv-incremental` folder and execute the command `./idlv --check-edb-duplication --output=7 --no-simplify < pacman.xml`
+Open a bash in the `idlv-incremental` folder and execute the command `./idlv --check-edb-duplication --output=7 --no-simplify < pacman.xml`. The output of the grounder will be store in the `groundProgram` folder (create this folder if it does not exist).
