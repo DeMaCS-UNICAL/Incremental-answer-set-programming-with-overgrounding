@@ -1,0 +1,5 @@
+--- README ---
+
+The compressed file contains the directory "idlv-server/" which provides a standalone executable of I-DLV Server. 
+There is no need to install any library.
+Just extract the compressed file to a known location on your computer, and from that location type "./idlv-server" 
